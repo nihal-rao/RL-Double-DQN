@@ -1,8 +1,7 @@
 # RL-Double DQN
 
 **Using Double Deep Q Networks with experience replay to solve Cartpole v0 in just 184 episodes.**
-
-***Implemented using tensorflow 2.**
+**Implemented using tensorflow 2.**
 
 # Double Deep Q Networks and Experience Replay:
 
